@@ -1,35 +1,44 @@
-# 🎬 Netflix Shows Analytics Dashboard
+# 🎬 Netflix Shows Analytics Dashboard  
 
-## 📌 Project Overview
-This project analyzes the Netflix dataset (~8,000 titles) to explore:
-- Trends in genres and ratings
-- Country-wise content distribution
-- Release patterns over time
-- An interactive recommendation system
+Netflix Analytics Dashboard is an **interactive data analytics project** built with Python and Streamlit.  
+It provides insights into Netflix’s catalog (~8,000 titles) by exploring **genres, ratings, release trends, and country-wise content distribution**, along with a **content-based recommendation system**.  
 
-Built an interactive dashboard with **Streamlit** to visualize insights and explore data.
+This project demonstrates proficiency in **data analysis, visualization, and UI development with Streamlit**.  
+
+➡️ **[View Live Demo]([https://your-streamlit-app-link.streamlit.app/](https://netflix-analytics-project-crlv4m7mptszkcudffizzh.streamlit.app/))** 
 
 ---
 
-## 📊 Features
-- 📈 Interactive filters (Country, Genre, Type, Year)
-- 🎭 Top genres and release trends
-- 🌍 Country × Genre heatmap
-- 🍿 Content rating distribution
-- 🤖 Content-based recommendation system
+## ✨ Features  
+
+📊 **Data Exploration**  
+- Interactive filters: Country, Genre, Type (Movie/TV), Year  
+- Top genres and trends over time  
+- Content rating distribution (G, PG, TV-MA, etc.)  
+
+🌍 **Geographic Insights**  
+- Heatmap of popular genres across top countries  
+
+🍿 **Recommendations**  
+- Content-based recommendation system using TF-IDF and cosine similarity  
+
+📈 **Visualizations**  
+- Built with **Plotly** for interactive charts (bar, line, pie, heatmap)  
 
 ---
 
-## 🛠️ Tech Stack
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- Streamlit
+## 🛠️ Tech Stack  
+
+- **Python** (Pandas, NumPy)  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Machine Learning**: Scikit-learn (TF-IDF + Cosine Similarity)  
+- **UI**: Streamlit  
 
 ---
 
-## 🚀 How to Run
-1. Clone this repo:
+## 🚀 How to Run  
+
+1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/Netflix-Analytics-Project.git
+   git clone https://github.com/Bismil948/Netflix-Analytics-Project.git
    cd Netflix-Analytics-Project
