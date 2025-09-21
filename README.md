@@ -5,7 +5,7 @@ It provides insights into Netflix’s catalog (~8,000 titles) by exploring **gen
 
 This project demonstrates proficiency in **data analysis, visualization, and UI development with Streamlit**.  
 
-➡️ [View Live Demo]([https://your-streamlit-app-link.streamlit.app/](https://netflix-analytics-project-crlv4m7mptszkcudffizzh.streamlit.app/))
+➡️ View live demo: https://netflix-analytics-project-crlv4m7mptszkcudffizzh.streamlit.app/
 
 ---
 
